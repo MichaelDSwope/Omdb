@@ -7,6 +7,8 @@ namespace Paupers.Views.Shared
     {
         public void OnGet()
         {
+
+
         }
     }
 }
